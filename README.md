@@ -1,5 +1,4 @@
 # Introduction
 
-- Name
-- College
-- Age
+- Name: Aakriti Dahal
+- Location: Kathmandu,Nepal
